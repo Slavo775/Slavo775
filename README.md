@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Slavo775
+- 👀 I’m interested in Web developing (Vue.js, Node.js, Docker, PHP)
+- 🌱 I’m currently learning Docker, Cypress
+- 📫 How to reach me email: slv.sedlak@gmail.com
