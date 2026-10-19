@@ -3,10 +3,16 @@
   <img alt="FiSeMa, frontend development studio" src="./assets/github-readme-header-light-1280x320.png" width="100%">
 </picture>
 
-Hi, I'm Slavo — a Frontend Developer with experience since 2019.
+### Frontend developer for design systems, web apps and frontend migrations.
 
-I’ve worked with modern web technologies including **Vue.js**, **Nuxt.js**, **React**, **Next.js**, and **Ionic**. I spent 5 years as a web developer at [Bistro.sk](https://bistro.sk), part of the **Just Eat Takeaway** group.
+I'm Slavo, a frontend developer from Slovakia and the founder of **FiSeMa**, a one-person frontend studio.
+Five years as a web developer at [Bistro.sk](https://bistro.sk), part of **Just Eat Takeaway**. Now I build AI-driven tools at **Ringier**.
 
-Currently, I'm building AI-driven tools as a frontend developer at **Ringier**.
+**Stack:** Vue · Nuxt · React · Next.js · TypeScript · Ionic
 
-📫 slavomir.sedlak.webdev@gmail.com
+**Open source**
+
+- [insight-flow](https://github.com/Slavo775/insight-flow): CLI and live dashboard for AI-assisted task lifecycle management. On [npm](https://www.npmjs.com/package/insight-flow).
+- [debugger-pro-plus-3000](https://github.com/Slavo775/debugger-pro-plus-3000): modular debugger panel for React apps. Drop it in and add only the modules you need.
+
+<samp>Open to freelance projects · [Email](mailto:slavomir.sedlak.webdev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/slavom%C3%ADr-sedl%C3%A1k-062699173)</samp>
